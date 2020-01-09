@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootLearnApplication {
 	//测试github Desktop
+	//不给测试！！！！！
     public static void main(String[] args) {
         SpringApplication.run(SpringBootLearnApplication.class, args);
     }
