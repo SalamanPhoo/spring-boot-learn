@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.pho.mapper")
 @SpringBootApplication
 public class SpringBootLearnApplication {
-
+	//测试github Desktop
     public static void main(String[] args) {
         SpringApplication.run(SpringBootLearnApplication.class, args);
     }
